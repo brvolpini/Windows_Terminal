@@ -58,8 +58,8 @@
                 "cursorShape": "bar",
                 "commandline": "cmd.exe",
                 "fontFace": "Ubuntu light",
-                "fontSize": 11,
-                "acrylicOpacity": 0.80,
+                "fontSize": 10,
+                "acrylicOpacity": 0.90,
                 "useAcrylic": true,
                 "closeOnExit": true,
                 "padding": "0, 0, 0, 0",
@@ -98,7 +98,7 @@
             "selectionBackground": "#FFFFFF",
         
             "background" : "#0C0C0C",
-            "foreground" : "#F2F2F2",
+            "foreground" : "#CCCCCC",
         
             "black" : "#0C0C0C",
             "blue" : "#0037DA",
